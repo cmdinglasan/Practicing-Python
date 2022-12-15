@@ -10,7 +10,7 @@ Listed in this repository are my solutions / answers from the PracticePython.org
 | 1. Character Input | [link](https://www.practicepython.org/exercise/2014/01/29/01-character-input.html) | [Solution](01CharacterInput.py) |
 | 2. Odd Or Even | [link](https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html) | [Solution](02OddOrEven.py) |
 | 3. List Less Than Ten | [link](https://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html) | [Solution](03ListLessThanTen.py) |
-| 4. Divisors | [link](https://www.practicepython.org/exercise/2014/02/26/04-divisors.html) | ❌ |
+| 4. Divisors | [link](https://www.practicepython.org/exercise/2014/02/26/04-divisors.html) | [Solution](04Divisors.py) |
 | 5. List Overlap | [link](https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html) | ❌ |
 | 6. String Lists | [link](https://www.practicepython.org/exercise/2014/03/12/06-string-lists.html) | ❌ |
 | 7. List Comprehensions | [link](https://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html) | ❌ |
